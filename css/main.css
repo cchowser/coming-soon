@@ -16,8 +16,16 @@ h1, p, h2, h3 {
 	color: #fff;
 	max-width: 75%;
 	margin-left: 100px;
+	
 }
 
+header h2 {
+	opacity:0.5;
+}
+
+p {
+	opacity:0.5;
+}
 header img {
 	margin-left: 100px;
 	margin-top:-10px;
